@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1453114496 source:d:\cb\linie\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 d:\cb\linie\allegrostart.h
+
+1453114614 source:d:\cb\linie\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	"Lines.h"
+
+1452726462 d:\cb\linie\lines.h
+
+1453114568 source:d:\cb\linie\lines.cpp
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"Lines.h"
+
+1452789356 source:f:\cb\linie\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 f:\cb\linie\allegrostart.h
+
+1452789430 source:f:\cb\linie\lines.cpp
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"Lines.h"
+
+1452726462 f:\cb\linie\lines.h
+
+1452789442 source:f:\cb\linie\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	"Lines.h"
+
+1453114496 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\linie\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\linie\allegrostart.h
+
+1454972978 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\linie\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	"Lines.h"
+
+1452726462 l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\linie\lines.h
+
+1453114568 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\linie\lines.cpp
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"Lines.h"
+
+1467389051 source:i:\cb\linie\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1467389371 i:\cb\linie\allegrostart.h
+
+1467389371 source:i:\cb\linie\lines.cpp
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"Lines.h"
+
+1467389027 i:\cb\linie\lines.h
+
+1467659184 source:i:\cb\linie\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	"Lines.h"
+
